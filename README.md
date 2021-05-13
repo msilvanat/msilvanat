@@ -1,8 +1,5 @@
-### Hi there 👋 I'm Silvana, a Software Fullstack Developer 💻 from Argentina .
-
-<!--
-**msilvanat/msilvanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋 I'm Silvana, a Software Fullstack Developer 💻 from Argentina.
+I'm a versatile person, willing to face new challenges and get out of my comfort zone. I look for challenges that test my skills in order to improve myself.
 
 ⚡ Tech Stack
 
@@ -26,5 +23,9 @@
 
 
 - 🌱 I’m currently learning React Native
+
+
+<!--
+**msilvanat/msilvanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
