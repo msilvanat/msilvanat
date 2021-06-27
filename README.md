@@ -5,14 +5,17 @@ I'm a versatile person, willing to face new challenges and get out of my comfort
 
 - HTML5 
 - CSS3 
+- SaSS
 - Javascript 
 - Typescript
 - Angular 
 - React.js 
+- Vue.js
 - Node.js
 - Express.jS
 - Mysql 
 - Mongodb
+- Firebase
 - Mariadb 
 - Git
 - Github Pages
