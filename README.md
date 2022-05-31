@@ -26,7 +26,7 @@ I'm a versatile person, willing to face new challenges and get out of my comfort
 - Postman
 
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Python and  React Native
 
 
 <!--
