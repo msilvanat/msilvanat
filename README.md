@@ -24,9 +24,10 @@ I'm a versatile person, willing to face new challenges and get out of my comfort
 - Swagger
 - Jest
 - Postman
+- Cypress
 
 
-- 🌱 I’m currently learning Python and  React Native
+- 🌱 I’m currently learning Python 
 
 
 <!--
