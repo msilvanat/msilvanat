@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Silvana, a Software Fullstack Developer 💻 from Argentina.
+### Hi there 👋 I'm Silvana, a Software Fullstack Developer and QA Analyst 💻 from Argentina.
 I'm a versatile person, willing to face new challenges and get out of my comfort zone. I look for challenges that test my skills in order to improve myself.
 
 ⚡ Tech Stack
